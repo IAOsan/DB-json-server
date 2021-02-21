@@ -1,0 +1,25 @@
+{
+   "cursos": [
+      {
+         "id": 1,
+         "title": "1er card",
+         "price": "100 USD",
+         "image": "https://edteam-media.s3.amazonaws.com/courses/small/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
+         "des": "Descripcion del primer curso"
+      },
+      {
+         "id": 2,
+         "title": "2do card",
+         "price": "100 USD",
+         "image": "https://edteam-media.s3.amazonaws.com/courses/small/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
+         "des": "Descripcion del segundo curso"
+      },
+      {
+         "id": 3,
+         "title": "3er card",
+         "price": "100 USD",
+         "image": "https://edteam-media.s3.amazonaws.com/courses/small/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
+         "des": "Descripcion del tercer curso"
+      }
+   ]
+}
