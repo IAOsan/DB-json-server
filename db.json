@@ -5,56 +5,56 @@
     "nombre": "HTML5",
     "precio" : 20,
     "imagen" : "camisa_1",
-    "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
+    "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   },
   {
     "id": 2,
     "nombre": "CSS3",
     "precio" : 25,
     "imagen" : "camisa_2",
-    "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
+    "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   },
   {
     "id": 3,
     "nombre": "NODEJS",
     "precio" : 30,
     "imagen" : "camisa_3",
-    "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
+    "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   },
   {
     "id": 4,
     "nombre": "JAVASCRIPT",
     "precio" : 30,
     "imagen" : "camisa_4",
-    "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
+    "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   },
   {
     "id": 5,
     "nombre": "ANGULAR",
     "precio" : 25,
     "imagen" : "camisa_5",
-    "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
+    "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   },
   {
     "id": 6,
     "nombre": "GITHUB",
     "precio" : 25,
     "imagen" : "camisa_6",
-    "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
+    "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   },
   {
     "id": 7,
     "nombre": "WORDPRESS",
     "precio" : 20,
     "imagen" : "camisa_7",
-    "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
+    "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   },
   {
     "id": 8,
     "nombre": "REACT",
     "precio" : 30,
     "imagen" : "camisa_8",
-    "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
+    "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   }
    ]
 }
