@@ -1,56 +1,56 @@
 {
    "productos": [
        {
-    "id": 0,
+    "id": 1,
     "nombre": "HTML5",
     "precio" : 20,
     "imagen" : "camisa_1",
     "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
   },
   {
-    "id": 1,
+    "id": 2,
     "nombre": "CSS3",
     "precio" : 25,
     "imagen" : "camisa_2",
     "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
   },
   {
-    "id": 2,
+    "id": 3,
     "nombre": "NODEJS",
     "precio" : 30,
     "imagen" : "camisa_3",
     "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
   },
   {
-    "id": 3,
+    "id": 4,
     "nombre": "JAVASCRIPT",
     "precio" : 30,
     "imagen" : "camisa_4",
     "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
   },
   {
-    "id": 4,
+    "id": 5,
     "nombre": "ANGULAR",
     "precio" : 25,
     "imagen" : "camisa_5",
     "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
   },
   {
-    "id": 5,
+    "id": 6,
     "nombre": "GITHUB",
     "precio" : 25,
     "imagen" : "camisa_6",
     "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
   },
   {
-    "id": 6,
+    "id": 7,
     "nombre": "WORDPRESS",
     "precio" : 20,
     "imagen" : "camisa_7",
     "descripcion" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum illo quidem maxime ducimus nesciunt est ab ratione similique voluptas facilis."
   },
   {
-    "id": 7,
+    "id": 8,
     "nombre": "REACT",
     "precio" : 30,
     "imagen" : "camisa_8",
