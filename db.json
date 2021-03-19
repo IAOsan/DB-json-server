@@ -56,5 +56,13 @@
     "imagen" : "camisa_8",
     "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, nulla! Illo dolore nam quis a, magnam rem vero pariatur animi, excepturi maiores, laudantium delectus quo reiciendis! Odio, itaque repudiandae voluptatum autem animi cumque tempore nisi vero perferendis quo vel, magnam omnis hic delectus assumenda tenetur ab ullam esse accusantium quaerat expedita, nulla ipsam consequuntur! Quibusdam, alias mollitia. Laudantium, debitis inventore?"
   }
+   ],
+   "posts": [
+      {
+         "userId": 1,
+         "id": 1,
+         "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+         "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      }
    ]
 }
