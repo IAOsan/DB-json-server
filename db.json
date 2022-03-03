@@ -1,25 +1,112 @@
 {
-   "cursos": [
-      {
-         "id": 1,
-         "title": "1er card",
-         "price": "100 USD",
-         "image": "https://edteam-media.s3.amazonaws.com/courses/small/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
-         "des": "Descripcion del primer curso"
-      },
-      {
-         "id": 2,
-         "title": "2do card",
-         "price": "100 USD",
-         "image": "https://edteam-media.s3.amazonaws.com/courses/small/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
-         "des": "Descripcion del segundo curso"
-      },
-      {
-         "id": 3,
-         "title": "3er card",
-         "price": "100 USD",
-         "image": "https://edteam-media.s3.amazonaws.com/courses/small/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
-         "des": "Descripcion del tercer curso"
-      }
-   ]
+	"products": [
+		{
+			"id": 1,
+			"collection": "hats",
+			"department": "woman",
+			"name": "black ribbon hat",
+			"price": "15000",
+			"image": "https://i.imgur.com/VO79QQd.jpg",
+			"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+		},
+		{
+			"id": 2,
+			"collection": "hats",
+			"department": "man",
+			"name": "beach hat",
+			"price": "25000",
+			"image": "https://i.imgur.com/Qu0oPXC.jpg",
+			"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+		},
+		{
+			"id": 3,
+			"collection": "hats",
+			"department": "woman",
+			"name": "flat hat",
+			"price": "35000",
+			"image": "https://i.imgur.com/d7O484t.jpg",
+			"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+		},
+		{
+			"id": 4,
+			"collection": "hats",
+			"department": "unisex",
+			"name": "chick hat",
+			"price": "10000",
+			"image": "https://i.imgur.com/pzAZdks.jpg",
+			"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+		},
+		{
+			"id": 5,
+			"collection": "hats",
+			"department": "man",
+			"name": "mountain hat",
+			"price": "45000",
+			"image": "https://i.imgur.com/9HrDNkZ.jpg",
+			"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+		},
+		{
+			"id": 6,
+			"collection": "hats",
+			"department": "unisex",
+			"name": "model hat",
+			"price": "50000",
+			"image": "https://i.imgur.com/iGXFx7n.jpg",
+			"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+		},
+		{
+			"id": 7,
+			"collection": "hats",
+			"department": "man",
+			"name": "blue hat",
+			"price": "15000",
+			"image": "https://i.imgur.com/NM7gfwb.jpg",
+			"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+		},
+		{
+			"id": 8,
+			"collection": "hats",
+			"department": "man",
+			"name": "black hat",
+			"price": "15000",
+			"image": "https://i.imgur.com/lBxmcvj.jpg",
+			"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+		},
+		{
+			"id": 9,
+			"collection": "hats",
+			"department": "woman",
+			"name": "long hat",
+			"price": "75000",
+			"image": "https://i.imgur.com/WMZFtfc.jpg",
+			"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+		},
+		{
+			"id": 10,
+			"collection": "hats",
+			"department": "woman",
+			"name": "pink hat",
+			"price": "35000",
+			"image": "https://i.imgur.com/NJ2i97T.jpg",
+			"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+		},
+		{
+			"id": 11,
+			"collection": "hats",
+			"department": "woman",
+			"name": "light pink hat",
+			"price": "35700",
+			"image": "https://i.imgur.com/60vP9la.jpg",
+			"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+		},
+		{
+			"id": 12,
+			"collection": "hats",
+			"department": "woman",
+			"name": "flower hat",
+			"price": "45900",
+			"image": "https://i.imgur.com/Or7uD4u.jpg",
+			"description": "The Football Is Good For Training And Recreational Purposes"
+		}
+	]
 }
